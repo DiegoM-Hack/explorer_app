@@ -308,7 +308,7 @@ class _ApiScreenState extends State<ApiScreen> {
 
                                     const SnackBar(
                                       content: Text(
-                                        "Juego guardado en MongoDB",
+                                        "Juego guardado en mi colección",
                                       ),
                                     ),
                                   );
